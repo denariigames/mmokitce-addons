@@ -23,10 +23,9 @@
 
 ## Roadmap
 
-[ ] better support straffing for running animation 
-[ ] better support straffing for walking animation
-[ ] add riding animations (vehicle)
-[ ] add climbing animations
-[ ] add dash animations
-[ ] add hip and backsheath animations
-[ ] add sounds
+- [ ] straffing for running animation 
+- [ ] straffing for walking animation
+- [ ] add riding animations (vehicle)
+- [ ] add climbing animations
+- [ ] add dash animations
+- [ ] add sounds
