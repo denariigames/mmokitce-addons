@@ -1,0 +1,14 @@
+{
+  "name": "Tiny Epic Characters",
+  "guid": "ba47e0e8-2a37-4f01-ac99-b908736daf37",
+  "packageUrl": "https://github.com/denariigames/nightblade-addons/raw/refs/heads/master/TinyEpicCharacters/dist/TinyEpicCharacters.unitypackage",
+  "version": "1.0.0",
+  "updateDate": "2026-02-09",
+  "category": "Characters",
+  "description": "Adds new player character and monster models for the Tiny Epic Demo. Separating them into their own addon, you can use them in your own projects.\r\n\r\nModels by KayKit (CC0). Animations by KatKit (CC0), Quaternius (CC0) and Kevin Iglesias (Unity Asset Store).",
+  "author": {
+    "name": "Denarii Games",
+    "url": "https://x.com/WildMMO"
+  },
+  "screenshot": "screenshot.png"
+}
