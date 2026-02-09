@@ -2,7 +2,7 @@
 
 **HueUI** is a UI theming and rapid prototyping addon for [**NightBlade MMO**](https://github.com/Fallen-Entertainment/NightBlade_MMO). It allows you to completely restyle your game user interface using theme files, dramatically speeding up UI iteration and enabling easy modification of your theme in the future.
 
-<img src="https://github.com/denariigames/nightblade-addons/blob/master/HueUI/screenshot.png" alt="HueUI" height="350">
+<img src="https://github.com/denariigames/nightblade-addons/blob/master/HueUI/dist/screenshot.png" alt="HueUI" height="350">
 
 
 ## Features
