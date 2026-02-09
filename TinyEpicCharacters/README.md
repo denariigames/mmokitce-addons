@@ -2,7 +2,7 @@
 
 **Tiny Epic Characters** adds one new player character model and one new monster character model configured for use with [**NightBlade MMO**](https://github.com/Fallen-Entertainment/NightBlade_MMO). The upcoming Tiny Epic Demo will use these characters, but by separating them into their own addon, you can use them in your own projects.
 
-<img src="https://github.com/denariigames/nightblade-addons/blob/master/TinyEpicCharacters/screenshot.png" alt="TinyEpicCharacters" height="350">
+<img src="https://github.com/denariigames/nightblade-addons/blob/master/TinyEpicCharacters/dist/screenshot.png" alt="TinyEpicCharacters" height="350">
 
 ## Credits
 
