@@ -10,11 +10,10 @@
 - **Theme Manager**  
   - Apply an entire HueUITheme to your project with one click
 
-- **13 Core UI Components** (primitives for fast composition)  
-  - Basic: Button, Text, Title  
-  - Layout: Panel, Panel Group, Grid Container, List Container  
-  - Structural: Container, Divider, Menubar, Scrollbar
-  - Game-specific: ItemTitle, SelectedItem
+- **14 Core UI Components** (primitives for fast composition)
+  - Basic: Text, Title, Button, Divider, Input Field, Toggle, Scrollbar
+  - Layout: Container, Panel, Panel Group, Grid Container, List Container  
+  - Game-specific: Item Title, Selected Item
 
 - **Customizable Component Editors**  
   - Edit component settings (Primary/Default button style or Left/Center/Right Panel position for example)  
@@ -45,7 +44,7 @@
 
 ## Roadmap
 
-- [ ] Make more NightBlade built-in UI elements HueUI-compatible (Inventory, Skillbar, etc.)
+- [ ] More NightBlade built-in UI elements HueUI-compatible (CanvasGameplay)
 - [ ] Additional UI components
 - [ ] Component animations
 

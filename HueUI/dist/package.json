@@ -1,0 +1,14 @@
+{
+  "name": "Hue UI",
+  "guid": "f76b6900-2ad0-4276-ae6a-6ac1faae7ec7",
+  "packageUrl": "https://github.com/denariigames/nightblade-addons/raw/refs/heads/master/HueUI/HueUI.unitypackage",
+  "version": "1.0.0",
+  "updateDate": "2026-02-08",
+  "category": "UI",
+  "description": "Allows you to completely restyle your game user interface using theme files, dramatically speeding up UI iteration and enabling easy modification of your theme in the future.",
+  "author": {
+    "name": "Denarii Games",
+    "url": "https://x.com/WildMMO"
+  },
+  "screenshot": "screenshot.png"
+}
