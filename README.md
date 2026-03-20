@@ -1,1 +1,1 @@
-Addons for NightBlade MMO
+Addons for MmoKitCE
