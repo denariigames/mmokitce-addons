@@ -9,6 +9,6 @@
 	"url": "https://x.com/WildMMO"
   },
   "category": "Gameplay",
-  "description": "Adds new HarvestableEntity type that awards items on death (as opposed to per hit). Useful for things like smashing barrels.",
+  "description": "Adds HarvestableEntity type that awards items on death (as opposed to per hit). Useful for things like smashing barrels which any proper RPG should have.",
   "screenshot": "screenshot.png"
 }
