@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 617b6870bc359f34b957272c4ef4d53d, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  btnValidate: 0
+  id: 
+  defaultTitle: Key
+  languageSpecificTitles: []
+  defaultDescription: What it unlocks, nobody knows.
+  languageSpecificDescriptions: []
+  category: 
+  icon: {fileID: 21300000, guid: 596f82b593348b6409a1d09eaca5f4b4, type: 3}
+  sellPrice: 0
+  weight: 0
+  noSlotUsage: 0
+  maxStack: 1
+  overrideAmmoCapacity: 0
+  itemRefine: {fileID: 0}
+  lockDuration: 0
+  expireDurationUnit: 2
+  expireDuration: 0
+  dropModel: {fileID: 4204156875312811948, guid: e88e05c6da3060442ad404adfebb489d, type: 3}
+  dismantleReturnGold: 0
+  dismantleReturnItems: []
+  dismantleReturnCurrencies: []
+  restrictDealing: 0
+  restrictDropping: 0
+  restrictSelling: 0
+  deadDropProtected: 0
+  cashShopItemGeneratingList: []

@@ -1,14 +1,14 @@
 {
   "name": "Destroyable Entity",
   "guid": "747d6332-3c21-47ff-a59c-333d7e93d4d8",
-  "packageUrl": "https://github.com/denariigames/nightblade-addons/raw/refs/heads/master/DestroyableEntity/dist/DestroyableEntity.unitypackage",
+  "packageUrl": "https://github.com/denariigames/mmokitce-addons/raw/refs/heads/master/DestroyableEntity/dist/DestroyableEntity.unitypackage",
   "version": "1.0.0",
-  "updateDate": "2025-12-31",
+  "updateDate": "2026-04-06",
   "author": {
     "name": "Denarii Games",
 	"url": "https://x.com/WildMMO"
   },
   "category": "Gameplay",
-  "description": "Adds new HarvestableEntity type that awards only on death (as opposed to per hit). Useful for things like smashing barrels.",
+  "description": "Adds new HarvestableEntity type that awards items on death (as opposed to per hit). Useful for things like smashing barrels.",
   "screenshot": "screenshot.png"
 }
