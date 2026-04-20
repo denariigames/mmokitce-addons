@@ -1,7 +1,7 @@
 {
   "name": "Tutorial",
   "guid": "56c56b43-6a1c-4b66-8f51-ab8c199babb8",
-  "packageUrl": "https://github.com/denariigames/mmokitce_addons/raw/refs/heads/master/Tutorial/Tutorial.unitypackage",
+  "packageUrl": "https://github.com/denariigames/mmokitce_addons/raw/refs/heads/master/Tutorial/dist/Tutorial.unitypackage",
   "version": "1.0.0",
   "updateDate": "2026-04-20",
   "category": "UI",
