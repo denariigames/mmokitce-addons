@@ -1,0 +1,14 @@
+{
+  "name": "Tutorial",
+  "guid": "56c56b43-6a1c-4b66-8f51-ab8c199babb8",
+  "packageUrl": "https://github.com/denariigames/mmokitce_addons/raw/refs/heads/master/Tutorial/Tutorial.unitypackage",
+  "version": "1.0.0",
+  "updateDate": "2026-04-20",
+  "category": "UI",
+  "description": "Adds Tutorial GameData that can be displayed when entering a trigger or a UIBase window is shown, for example, instructions on how to allocate Skill points.",
+  "author": {
+    "name": "Denarii Games",
+    "url": "https://x.com/WildMMO"
+  },
+  "screenshot": "screenshot.png"
+}
