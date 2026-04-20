@@ -1,5 +1,7 @@
 # Destroyable Entity
 
+<img src="https://raw.githubusercontent.com/denariigames/mmokitce-addons/refs/heads/master/DestroyableEntity/dist/screenshot.png" width=600 />
+
 Adds HarvestableEntity type that awards items on death (as opposed to per hit). Useful for things like smashing barrels which any proper RPG should have.
 
 - adds optional configuration to always use items in the first weapon. No need to duplicate across weapons or skills.
