@@ -1,0 +1,14 @@
+{
+  "name": "Animator Character Model",
+  "guid": "9c0a7823-465d-414a-b9d5-4f8b3811f1a2",
+  "packageUrl": "https://github.com/denariigames/mmokitce-addons/raw/refs/heads/master/AnimatorCharacterModel/dist/AnimatorCharacterModel.unitypackage",
+  "version": "1.0.0",
+  "updateDate": "2026-05-02",
+  "category": "Characters",
+  "description": "Minimally tested implementation of Animator and Animation Character Models by Ittipon Teerapruettikulchai (insthync).",
+  "author": {
+    "name": "Denarii Games",
+    "url": "https://x.com/WildMMO"
+  },
+  "screenshot": "screenshot.png"
+}
