@@ -1,4 +1,5 @@
 {
+  "isCore": "true",
   "name": "Animator Character Model",
   "guid": "9c0a7823-465d-414a-b9d5-4f8b3811f1a2",
   "packageUrl": "https://github.com/denariigames/mmokitce-addons/raw/refs/heads/master/AnimatorCharacterModel/dist/AnimatorCharacterModel.unitypackage",
