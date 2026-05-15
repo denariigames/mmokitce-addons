@@ -1,0 +1,13 @@
+{
+  "name": "CashShop",
+  "guid": "8f2085ff-2211-4e9f-b156-2ba036d9d53a",
+  "packageUrl": "https://github.com/denariigames/mmokitce-addons/raw/refs/heads/master/CashShop/dist/CashShop.unitypackage",
+  "version": "1.0.0",
+  "updateDate": "2026-05-15",
+  "category": "Economy",
+  "description": "Default MMORPG Kit implementation of Unity In-App Purchasing (IAP) allows you to sell digital content within your game on Google Play Store and Apple App Store.",
+  "author": {
+    "name": "Ittipon Teerapruettikulchai",
+    "url": "https://github.com/insthync"
+  }
+}
