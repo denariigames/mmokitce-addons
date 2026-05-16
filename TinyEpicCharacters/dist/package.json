@@ -2,7 +2,7 @@
   "name": "Tiny Epic Characters",
   "guid": "9e6bab99-3819-4656-9746-104e01b31528",
   "packageUrl": "https://github.com/denariigames/mmokitce-addons/raw/refs/heads/master/TinyEpicCharacters/dist/TinyEpicCharacters.unitypackage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "updateDate": "2026-05-15",
   "category": "Characters",
   "description": "Adds new player character and monster models for the Tiny Epic Demo. Separating them into their own addon, you can use them in your own projects.\r\n\r\nModels and animations by KayKit (CC0), audio by Helton Yan (CC0).",
