@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a278d249b1987cf4ebdb60bb4769bf33, type: 3}
+  m_Name: TED-Draven-MineStone
+  m_EditorClassIdentifier: 
+  btnValidate: 0
+  id: 
+  defaultTitle: Mine stones
+  languageSpecificTitles: []
+  defaultDescription: HarvestableEntities are GameEntities that can be attacked.
+    The amount of damage done to a Harvestable is set in the WeaponType, and some
+    Harvestables can only be attacked with certain WeaponTypes. Stone deposits require
+    a Pickaxe. Mine 3 stones and return to complete quest.
+  languageSpecificDescriptions: []
+  category: Generic
+  icon: {fileID: 0}
+  requirement:
+    character: {fileID: 0}
+    faction: {fileID: 0}
+    level: 0
+    completedQuests: []
+  tasks:
+  - taskType: 1
+    monsterCharacterAmount:
+      monster: {fileID: 0}
+      amount: 0
+    itemAmount:
+      item: {fileID: 11400000, guid: 93c389fe9d40638469bffd9de26d31ba, type: 2}
+      level: 0
+      amount: 2
+    doNotDecreaseItemsOnQuestComplete: 0
+    npcEntity: {fileID: 0}
+    npcEntityId: 0
+    npcEntityTitle: 
+    npcEntityTitles: []
+    talkToNpcDialog: {fileID: 0}
+    completeAfterTalked: 0
+    customQuestTask: {fileID: 0}
+    useCustomDescription: 0
+    defaultDescription: 
+    languageSpecificDescriptions: []
+    useCustomCompletedDescription: 0
+    defaultCompletedDescription: 
+    languageSpecificCompletedDescriptions: []
+  randomTasks:
+  - tasks:
+    - taskType: 1
+      monsterCharacterAmount:
+        monster: {fileID: 0}
+        amount: 0
+      itemAmount:
+        item: {fileID: 11400000, guid: f395126b6e9687e4fab0e3c9a68e0156, type: 2}
+        level: 0
+        amount: 3
+      doNotDecreaseItemsOnQuestComplete: 0
+      npcEntity: {fileID: 0}
+      npcEntityId: 0
+      npcEntityTitle: 
+      npcEntityTitles: []
+      talkToNpcDialog: {fileID: 0}
+      completeAfterTalked: 0
+      customQuestTask: {fileID: 0}
+      useCustomDescription: 0
+      defaultDescription: 
+      languageSpecificDescriptions: []
+      useCustomCompletedDescription: 0
+      defaultCompletedDescription: 
+      languageSpecificCompletedDescriptions: []
+  abandonQuests: []
+  resetAttributes: 0
+  resetSkills: 0
+  changeCharacterClass: {fileID: 0}
+  changeCharacterFaction: {fileID: 0}
+  rewardExp: 200
+  rewardGold: 0
+  rewardStatPoints: 0
+  rewardSkillPoints: 0
+  rewardCurrencies: []
+  rewardItems: []
+  selectableRewardItems: []
+  randomRewardItems: []
+  repeatType: 2
+  canAbandon: 1
+  nextAssignQuests: []
+  autoTrackQuest: 1

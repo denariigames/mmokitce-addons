@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88ba107595674354c87fbbacb6446343, type: 3}
+  m_Name: TED-StoneHarvestable
+  m_EditorClassIdentifier: 
+  btnValidate: 0
+  id: 
+  defaultTitle: Stone Deposit
+  languageSpecificTitles: []
+  defaultDescription: 
+  languageSpecificDescriptions: []
+  category: 
+  icon: {fileID: 0}
+  harvestEffectivenesses:
+  - weaponType: {fileID: 11400000, guid: da67efafbeab1c24083eb2a0f1e9d23d, type: 2}
+    damageEffectiveness: 1
+    items:
+    - item: {fileID: 11400000, guid: 651712ea94fd08340b2d6d60ca76842e, type: 2}
+      amountPerDamage: 0.1
+      randomWeight: 10
+    - item: {fileID: 11400000, guid: f395126b6e9687e4fab0e3c9a68e0156, type: 2}
+      amountPerDamage: 0.1
+      randomWeight: 90
+  skillHarvestEffectivenesses: []
+  expPerDamage: 0

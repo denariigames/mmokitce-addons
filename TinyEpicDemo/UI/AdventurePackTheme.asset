@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c9c15cace57c804a8524c5438e186e6, type: 3}
+  m_Name: AdventurePackTheme
+  m_EditorClassIdentifier: Assembly-CSharp::DenariiGames.TinyUI.TinyUITheme
+  fontSize: 26
+  fontColor:
+    serializedVersion: 2
+    rgba: 4293914607
+  fontAsset: {fileID: 0}
+  fontLargeSize: 48
+  fontLargeAsset: {fileID: 11400000, guid: 5fc1ef074bc53a44a898d9b546bdbd7c, type: 2}
+  titleHeight: 130
+  titleBackgroundImage: {fileID: 21300000, guid: 15a1a9bd227af8046a4b50d5f4b767b0, type: 3}
+  titlePixelsPerUnitMultiplier: 0.8
+  titleBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  titleFontMarginTop: -18
+  titleFontSize: 36
+  titleFontColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  titleFontAsset: {fileID: 11400000, guid: 5fc1ef074bc53a44a898d9b546bdbd7c, type: 2}
+  itemTitleHeight: 26
+  itemTitleFontSize: 30
+  itemTitleBackgroundImage: {fileID: 0}
+  itemTitlePixelsPerUnitMultiplier: 0.5
+  itemTitleBackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+  itemTitleFontColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  itemTitleFontAsset: {fileID: 0}
+  selectedImage: {fileID: 21300000, guid: 2ce8f21da90bd9c44b425d3ad1695f66, type: 3}
+  selectedPixelsPerUnitMultiplier: 1
+  selectedColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonWidth: 200
+  buttonHeight: 70
+  buttonThinHeight: 54
+  buttonFontSize: 26
+  buttonFontColor:
+    serializedVersion: 2
+    rgba: 4280700014
+  buttonBackgroundImage: {fileID: 21300000, guid: 344afafc28184c647a02523e5c4029c7, type: 3}
+  buttonPixelsPerUnitMultiplier: 1
+  buttonBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonPrimaryFontColor:
+    serializedVersion: 2
+    rgba: 4280320068
+  buttonPrimaryImage: {fileID: 21300000, guid: 8978dbd57e25fe74893580921d375db6, type: 3}
+  buttonPrimaryPixelsPerUnitMultiplier: 1
+  buttonPrimaryColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonCloseWidth: 48
+  buttonCloseHeight: 48
+  buttonCloseFontColor:
+    serializedVersion: 2
+    rgba: 16777215
+  buttonCloseImage: {fileID: 21300000, guid: d6f0849febd87384dabd99a2cf22087d, type: 3}
+  buttonClosePixelsPerUnitMultiplier: 0.5
+  buttonCloseColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonIncreaseWidth: 60
+  buttonIncreaseHeight: 60
+  panelTopPadding: -50
+  panelHorizontalPadding: 25
+  panelBottomPadding: 50
+  panelBackgroundImage: {fileID: 21300000, guid: a612435907bde564ab7175602c9e1ce2, type: 3}
+  panelPixelsPerUnitMultiplier: 0.5
+  panelBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  sidePanelWidth: 700
+  sidePanelOffset: 25
+  sidePanelTopOffset: 25
+  sidePanelBottomOffset: 25
+  centerPanelWidth: 600
+  centerPanelHeight: 400
+  centerPanelTopOffset: 40
+  containerTopPadding: 50
+  containerHorizontalPadding: 50
+  containerBottomPadding: 50
+  containerSpacing: 20
+  containerBackgroundImage: {fileID: 21300000, guid: a97dc57854045b0478b086845cdc4e87, type: 3}
+  containerPixelsPerUnitMultiplier: 0.5
+  containerBackgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  listSpacing: 0
+  gridCellWidth: 150
+  gridCellHeight: 150
+  gridSpacingX: 0
+  gridSpacingY: 0
+  gridSmallWidth: 100
+  gridSmallHeight: 100
+  gridCardWidth: 225
+  gridCardHeight: 280
+  scrollbarWidth: 30
+  scrollbarPositionX: 0
+  scrollbarVerticalPadding: 0
+  scrollbarImage: {fileID: 0}
+  scrollbarPixelsPerUnitMultiplier: 0.5
+  scrollbarColor: {r: 0.509434, g: 0.35420078, b: 0.18983625, a: 1}
+  scrollbarHandleImage: {fileID: 21300000, guid: 8646540d47973b14c821fde7464edb12, type: 3}
+  scrollbarHandlePixelsPerUnitMultiplier: 1
+  scrollbarHandleColor: {r: 1, g: 1, b: 1, a: 1}
+  dividerHeight: 50
+  dividerImageHeight: 20
+  dividerImageWidth: 400
+  dividerImageType: 2
+  dividerImage: {fileID: 21300000, guid: dc3bf27134ca0064ca90fd93d64376b8, type: 3}
+  dividerPixelsPerUnitMultiplier: 1
+  dividerColor: {r: 1, g: 1, b: 1, a: 1}
+  inputFieldHeight: 54
+  inputFieldImage: {fileID: 21300000, guid: d0658aac075f2db488b6b99cee85feba, type: 3}
+  inputFieldPixelsPerUnitMultiplier: 1
+  inputFieldColor: {r: 1, g: 1, b: 1, a: 1}
+  toggleHeight: 32
+  toggleWidth: 32
+  toggleLabelPadding: 10
+  toggleImage: {fileID: 0}
+  togglePixelsPerUnitMultiplier: 1
+  toggleColor: {r: 1, g: 1, b: 1, a: 1}

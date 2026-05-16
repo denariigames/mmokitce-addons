@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2387f5f941888c441af15df4def2a1ab, type: 3}
+  m_Name: Gameplay-SafeArea
+  m_EditorClassIdentifier: 
+  Id: safearea
+  tutorialTitle: Safe Area
+  tutorialTitles: []
+  tutorialText: 'Safe areas are zones where no combat can occur. Monsters cannot
+    attack players, players cannot attack monsters, players cannot attack players.
+
+
+    The
+    walled town is such a safe area. You can see you are in a safe area by the blue
+    shield icon above player character heads. This UI can be changed by editing the
+    CanvasIsInSafeArea prefab.
+
+
+    To create a Safe area, add the SafeArea script
+    to a GameObject with BoxCollider and Trigger enabled.'
+  tutorialTexts: []
+  tutorialImage: {fileID: 21300000, guid: 1ab2518c5cb5a0241882001fcce02e19, type: 3}

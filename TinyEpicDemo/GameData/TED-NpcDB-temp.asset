@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91bcd1745666c51408dd4cae77813eab, type: 3}
+  m_Name: TED-NpcDB-temp
+  m_EditorClassIdentifier: 
+  maps:
+  - mapInfo: {fileID: 11400000, guid: 1ebdef473491d254494a89a466fb47f4, type: 2}
+    npcs:
+    - entityPrefab: {fileID: 496811563346063230, guid: 265e0e068dece2548997662139d02d73, type: 3}
+      position: {x: 26, y: 35, z: -49}
+      rotation: {x: 0, y: 200.2919, z: 0}
+      title: 
+      startDialog: {fileID: 0}
+      graph: {fileID: 11400000, guid: 9330fc523bb33504e9897180df772032, type: 2}
+    - entityPrefab: {fileID: 8784750260294142167, guid: fa15afc1aa35df04e928d3ed37577fd3, type: 3}
+      position: {x: -8, y: 35, z: -51}
+      rotation: {x: 0, y: 105, z: 0}
+      title: 
+      startDialog: {fileID: 0}
+      graph: {fileID: 0}
+    - entityPrefab: {fileID: 2561575111294203634, guid: 376b4babfd5abc6448a6048f268870f9, type: 3}
+      position: {x: -8, y: 35, z: -63}
+      rotation: {x: 0, y: 105, z: 0}
+      title: 
+      startDialog: {fileID: 0}
+      graph: {fileID: 0}
+    - entityPrefab: {fileID: 6337518442857718731, guid: cc09100227a6df241b3f7ca9fd2b4167, type: 3}
+      position: {x: -1, y: 35, z: -71}
+      rotation: {x: 0, y: 30, z: 0}
+      title: 
+      startDialog: {fileID: 0}
+      graph: {fileID: 0}

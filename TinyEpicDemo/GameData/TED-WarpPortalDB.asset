@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34cd795e7bc52440bbe142c860f85fd, type: 3}
+  m_Name: TED-WarpPortalDB
+  m_EditorClassIdentifier: 
+  maps:
+  - mapInfo: {fileID: 11400000, guid: 1ebdef473491d254494a89a466fb47f4, type: 2}
+    warpPortals:
+    - entityPrefab: {fileID: 114731892942428866, guid: dad49e52cb51e1444b15ddf137a25214, type: 3}
+      position: {x: 25, y: 32, z: -157}
+      rotation: {x: 0, y: 0, z: 0}
+      warpPortalType: 0
+      warpToMapInfo: {fileID: 11400000, guid: 9e2ad0d9bd5285f4f8986003c0e642d3, type: 2}
+      warpToPosition: {x: 0, y: 0, z: 0}
+      warpOverrideRotation: 0
+      warpToRotation: {x: 0, y: 0, z: 0}
+      warpPointsByCondition: []
+  - mapInfo: {fileID: 11400000, guid: 9e2ad0d9bd5285f4f8986003c0e642d3, type: 2}
+    warpPortals:
+    - entityPrefab: {fileID: 114731892942428866, guid: dad49e52cb51e1444b15ddf137a25214, type: 3}
+      position: {x: -10, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0}
+      warpPortalType: 0
+      warpToMapInfo: {fileID: 11400000, guid: 1ebdef473491d254494a89a466fb47f4, type: 2}
+      warpToPosition: {x: 24, y: 32, z: -152}
+      warpOverrideRotation: 0
+      warpToRotation: {x: 0, y: 0, z: 0}
+      warpPointsByCondition: []
