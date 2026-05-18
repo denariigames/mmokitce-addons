@@ -1,4 +1,5 @@
 {
+  "isCore": "true",
   "name": "CashShop",
   "guid": "8f2085ff-2211-4e9f-b156-2ba036d9d53a",
   "packageUrl": "https://github.com/denariigames/mmokitce-addons/raw/refs/heads/master/CashShop/dist/CashShop.unitypackage",
